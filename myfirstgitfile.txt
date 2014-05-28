@@ -2,8 +2,16 @@ good morning
 
 hellow
 
+<<<<<<< HEAD
 Add a new line to this file
 
 another line
 adfasdf
 
+=======
+blah blah
+second change
+third change
+fourth
+US 2 change
+>>>>>>> afaf4cd258b8838517bdcec006b0cc70988e3bfe
