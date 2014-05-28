@@ -7,4 +7,3 @@ Add a new line to this file
 another line
 adfasdf
 
-sdafsad
